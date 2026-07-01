@@ -1,1 +1,1 @@
-# Change-Detection-Deforestation-BekasiCity-GEE
+# Change-Detection-Deforestation-BekasiCity-GEE-NDVI-NDBI

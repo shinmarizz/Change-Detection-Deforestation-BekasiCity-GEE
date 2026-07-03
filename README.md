@@ -140,8 +140,10 @@ Klasifikasi penggunaan lahan dilakukan dengan pendekatan *supervised classificat
 
 ## 📚 Referensi
 
-Key, C. H., & Benson, N. C. (2006). *Landscape assessment: Ground measure of severity, the composite burn index; and remote sensing of severity, the normalized burn ratio*. USDA Forest Service General Technical Report.
-United States Geological Survey. (2022). *Landsat Collection 2 Level-2 Science Products*. U.S. Geological Survey.
+- Key, C. H., & Benson, N. C. (2006). *Landscape assessment: Ground measure of severity, the composite burn index; and remote sensing of severity, the normalized burn ratio*. USDA Forest Service General Technical Report.
+- United States Geological Survey. (2022). *Landsat Collection 2 Level-2 Science Products*. U.S. Geological Survey.
+- Cardille, J. A., Crowley, M. A., Saah, D., & Clinton, N. E. (Eds.). (2024). Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications. Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-26588-4
+- 
 
 ## 👤 Penulis
 

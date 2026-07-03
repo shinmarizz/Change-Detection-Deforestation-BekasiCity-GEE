@@ -1,5 +1,3 @@
-# Change-Detection-Deforestation-SukabumiCity-GEE-NDVI-NDBI-LULC-2015-2025
-
 # Deteksi Perubahan Tutupan Lahan dan Klasifikasi Penggunaan Lahan Kota Sukabumi (2015–2025)
 
 Repository ini berisi skrip Google Earth Engine (GEE) untuk mendeteksi perubahan tutupan lahan (*land cover change detection*) dan mengklasifikasikan penggunaan lahan di Kota Sukabumi, Jawa Barat, dengan membandingkan kondisi tahun 2015 dan 2025 menggunakan citra satelit Landsat 8.

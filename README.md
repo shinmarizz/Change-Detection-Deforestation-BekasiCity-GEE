@@ -109,18 +109,25 @@ Klasifikasi penggunaan lahan dilakukan dengan pendekatan *supervised classificat
 ## Hasil visualisasi 
 ### NDVI 2015
 <img width="389" height="343" alt="image" src="https://github.com/user-attachments/assets/781fd647-a98a-4874-9227-8be7db8de3ab" />
+
 ### NDVI 2025
 <img width="401" height="349" alt="image" src="https://github.com/user-attachments/assets/d270d547-19e5-4924-a27c-16d79a08d6e8" />
+
 ### NDBI 2015
 <img width="396" height="349" alt="image" src="https://github.com/user-attachments/assets/763cbcaa-6bfe-42b1-bb20-9bda4e39fafa" />
+
 ### NDBI 2025
 <img width="377" height="353" alt="image" src="https://github.com/user-attachments/assets/31035d4c-24f4-43fb-843a-2105cf8e9e88" />
+
 ### Klasifikasi Metode Random Forest 2015
 <img width="424" height="346" alt="image" src="https://github.com/user-attachments/assets/133051e6-7e8d-4826-a467-836d2a6cd777" />
+
 ### Klasifikasi Metode Random Forest 2025
 <img width="392" height="353" alt="image" src="https://github.com/user-attachments/assets/d109556a-07f5-46de-a047-a79d2add5f65" />
+
 ### Klasifikasi Netode CART 2015
 <img width="380" height="346" alt="image" src="https://github.com/user-attachments/assets/d67cc4a0-52ba-4c56-aae1-2e92cb8bf97c" />
+
 ### Klasifikasi Metode CART 2025
 <img width="410" height="347" alt="image" src="https://github.com/user-attachments/assets/f051e7a8-b78e-455a-97c8-b309e922dcf4" />
 
